@@ -1,4 +1,4 @@
-# flutter_blog (Still in development)
+# flutter_blog 
 
 A new Flutter project.
 
