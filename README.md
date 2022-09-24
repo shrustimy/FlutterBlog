@@ -1,6 +1,9 @@
 # flutter_blog 
 
-A new Flutter project.
+A blogging app , where user can create blogs and view others blogs
+
+- By building this app, I got to know about how to fetch images from device and insert into the app
+- And got to know about how to store blogs in database 
 
 ## Getting Started
 
